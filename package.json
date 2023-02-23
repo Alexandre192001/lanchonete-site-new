@@ -1,0 +1,14 @@
+{
+  "name": "lanchonetenovo",
+  "version": "1.0.0",
+  "description": "Site da lanchonete bom Jesus",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch assets/scss/style.scss:assets/css/style.css"
+  },
+  "author": "Alexandre Cavalcante",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.58.3"
+  }
+}
