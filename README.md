@@ -1,2 +1,2 @@
 
-LINK : https://lanchonetebomjesus.netlify.app/
+DEMO URL : https://lanchonetebomjesus.netlify.app/
